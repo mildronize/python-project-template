@@ -4,7 +4,7 @@
 coming soon
 
 # Script template
-How to use
+## How to use
 1. Install `virtualenv` if it doesn't exist by `pip install virtualenv`
 1. Create an python environment `virtualenv .env`
 1. Activate the environment `source .env/bin/activate`
